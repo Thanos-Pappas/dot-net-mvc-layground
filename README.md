@@ -1,4 +1,4 @@
-This is my first try on build a web app with ASP.NET MVC 5. My goal would be to build the following. [(reference)](https://nakov.com/blog/2015/05/28/free-asp-net-mvc-hands-on-lab/)
+This is my first try on building a web app with ASP.NET MVC 5. My goal would be to build the following. [(reference)](https://nakov.com/blog/2015/05/28/free-asp-net-mvc-hands-on-lab/)
 
 # Project Assignment
 ### Design and implement a Web based event management system.
